@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.5"
+  },
+  "name": "asg6_database_mysql",
+  "description": "Graciela Ariwijaya, A01304196, Set B, 30th November 2023\r This assignment is 100% complete.",
+  "version": "1.0.0",
+  "main": "assignment6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
