@@ -16,6 +16,10 @@
 * go to "localhost:8000"
 
 
-## Screenshots
-![Screenshot 2024-02-10 131051](https://github.com/ggraciela/ThreeTierWebpage/assets/94437215/35681a44-f158-4e2f-ba08-bfeaea8d1e51)
-![Screenshot 2024-02-10 131106](https://github.com/ggraciela/ThreeTierWebpage/assets/94437215/8dfbc5fc-d278-4096-af94-ac50179a56f6)
+### Screenshot of the final result :
+![Merged Screenshots Three-Tier Webpage](https://github.com/ggraciela/ThreeTierWebpage/assets/94437215/2f9c6fab-e464-46ca-bd5![Screenshot 2024-02-19 132434](https://github.com/ggraciela/ThreeTierWebpage/assets/94437215/b292ad03-bdde-4528-9d28-b397e3fae554)
+3-9fed3d795f85)
+
+### Screenshot of MySQL database : 
+![Uploading Screenshot 2024-02-19 132434.png…]()
+
