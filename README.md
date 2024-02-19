@@ -17,3 +17,6 @@
 
 
 ## Screenshots
+![Screenshot 2024-02-10 131051](https://github.com/ggraciela/ThreeTierWebpage/assets/94437215/35681a44-f158-4e2f-ba08-bfeaea8d1e51)
+
+![Screenshot 2024-02-10 131106](https://github.com/ggraciela/ThreeTierWebpage/assets/94437215/8dfbc5fc-d278-4096-af94-ac50179a56f6)
