@@ -1,8 +1,8 @@
 # Three-tier Webpage Project 
 
-* client + server + database
-* programmed with HTML/CSS/Javascript + node.js + AJAX + mySQL
-* theme of the webpage is a travel blog
+* Client + server + database
+* Programmed with HTML/CSS/Javascript + node.js + AJAX + mySQL
+* The theme of the webpage is "travel blog"
 
 
 ## To open 
