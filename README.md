@@ -2,6 +2,7 @@
 
 * client + server + database
 * programmed with HTML/CSS/Javascript + node.js + AJAX + mySQL
+* theme of the webpage is a travel blog
 
 
 ## To open 
